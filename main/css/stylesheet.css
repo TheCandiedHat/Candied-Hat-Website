@@ -45,13 +45,6 @@ button > a:hover {
   left: 20px;
   top: 20px;
 }
-.backbutton:hover {
-  background-color: black;
-  color: white;
-}
-.backbutton > a:hover {
-  color: white;
-}
 
 #cornerlinks > #tutorials {
   background-color: #0099FF;
