@@ -15,10 +15,22 @@ h2 {
   margin-top: -50px;
 }
 
+button {
+  background-color: #0099FF;
+  border: 0px;
+  border-radius: 5px;
+  font-size: 24px;
+  box-shadow: 1px 3px 6px black;
+}
+
 #cornerlinks > #tutorials {
   background-color: #0099FF;
   border: 0px;
   border-radius: 5px;
   font-size: 24px;
   box-shadow: 1px 3px 6px black;
+}
+
+p {
+  width: 400px;
 }
