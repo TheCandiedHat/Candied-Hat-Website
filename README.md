@@ -15,7 +15,7 @@ That's why I've decided to make this website.
 Also, the built-in sprite editors are horrible, so we added some better stuff for that.
 
 ## Professional GameMaker Studio developer?
-Awesome! Just e-mail me [here](stupidjunkmail000@gmail.com) and we can talk about you joining the team developing this website.
+Awesome! Just e-mail me @stupidjunkmail000@gmail.com and we can talk about you joining the team developing this website.
 Of course, you can just make youtube videos if you want. Or even text tutorials! (I'd love if every tutorial could be in both formats).
 
 ### So, now that you know what this is, go try it out!
