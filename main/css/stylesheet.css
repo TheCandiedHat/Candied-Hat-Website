@@ -23,11 +23,11 @@ button {
   box-shadow: 1px 3px 6px black;
 }
 
-a {
+button > a {
   text-decoration: none;
   color: black;
 }
-a:hover {
+button > a:hover {
   color: white;
 }
 
